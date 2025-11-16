@@ -9,6 +9,14 @@ We propose SwinV2-SF, a novel hybrid neural network for colorectal polyp segment
 
 ### 1.2 Architecture
 
+</p>
+<p align="center">
+	<img width=500, src="213.png"> <br />
+	<em>
+		Figure 1: An overview of our SwinV2-SF Network. SwinV2-SF is a parallel segmentation network.
+	</em>
+</p>
+
 ## 2. Usage
 
 ### 2.1 Preparation
